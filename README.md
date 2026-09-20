@@ -1,37 +1,38 @@
-### Hi there, I'm Yunus Dağ! 👋
+# Hi, I'm Yunus Dağ 👋
 
-I work in the public sector, in the energy field, and I'm moving toward data engineering, process automation, and software development. I'm actively working with SQL, Python, and Power BI, building real projects as I go.
-
----
-
-### 🎯 Focus & Academic Path
-
-- 🎓 **Education:** Starting a program in AI-assisted coding, working toward a bachelor's degree in Software Engineering.
-- ⚙️ **Process Automation:** Building small-scale tools and scripts to automate manual, repetitive tasks.
-- 📊 **Data & BI:** Learning SQL, database management, and Power BI reporting through hands-on projects.
+Public sector professional (energy field) transitioning into **data analytics, database management, and process automation**. I build real, working tools instead of tutorial projects — currently focused on JavaScript, SQL, Python, and Power BI.
 
 ---
 
-### 🛠️ Technologies I'm Currently Working With
+## 🎯 Current Focus
 
-**Languages & Core Tools**
-`Python` `SQL`
-
-**Database & BI**
-`SQL Server` `Power BI` `Microsoft Excel`
-
-**Environment & Version Control**
-`Git` `GitHub` `VS Code`
+- **Database & Data Engineering** — hands-on with SQL Server, working toward database administration and data analyst roles
+- **Process Automation** — building desktop tools that solve real day-to-day problems
+- **Formal Education** — pursuing a software engineering degree track alongside self-directed project work
 
 ---
 
-### 🚀 Projects I'm Working On
+## 🛠️ Tech Stack
 
-- 💰 **Income-Expense Tracker:** Desktop budgeting app built with Electron/Node.js for personal finance tracking.
+`Python` `SQL` `SQL Server` `Power BI` `Microsoft Excel` `Git` `GitHub` `Electron / Node.js`
 
 ---
 
-### 📫 Contact
+## 🚀 Featured Project
 
-- 📍 İzmir, Turkey
-- ✉️ yunusdag_92@outlook.com
+### [gelir-gider-app](https://github.com/yunusdag-dev/gelir-gider-app)
+A full-featured personal finance desktop application (Windows, Electron/Node.js), built in phases:
+- 📊 Income/expense tracking with categorized budgeting and limit alerts
+- 🎨 Theme system (dark/light/ocean)
+- 📅 Custom date-range financial reports
+- 📁 Excel & PDF export (in progress)
+- 🎯 Savings goals module with automated rounding rules
+
+Built end-to-end — from data model to UI to reporting — as a real tool I use myself.
+
+---
+
+## 📫 Contact
+
+📍 İzmir, Turkey
+✉️ yunusdag_92@outlook.com
