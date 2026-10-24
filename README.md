@@ -1,56 +1,41 @@
-# Hi, I'm Yunus Dağ 👋
+# Merhaba, Ben Yunus DaÄŸ ğŸ‘‹ | Hi, I'm Yunus DaÄŸ
 
-Public sector professional (energy field) moving into **data analytics, database management, and process automation**. I build real, working tools for real day-to-day problems instead of tutorial projects.
+**Kamu Enerji SektÃ¶rÃ¼ Ã‡alÄ±ÅŸanÄ± â€¢ Bilgisayar ProgramcÄ±lÄ±ÄŸÄ± Ã–ÄŸrencisi (Hedef: Bilgisayar MÃ¼hendisliÄŸi) â€¢ Veri Analisti AdayÄ± (Aspiring Data Analyst)**  
+ğŸ“ *Ä°zmir, TÃ¼rkiye*
 
-📍 İzmir, Turkey · ✉️ yunusdag_92@outlook.com
+Kamu enerji sektÃ¶rÃ¼nde gÃ¶rev yaparken aynÄ± zamanda **Bilgisayar ProgramcÄ±lÄ±ÄŸÄ±** eÄŸitimime devam ediyor (dikey geÃ§iÅŸ ile **Bilgisayar MÃ¼hendisliÄŸi** hedefiyle) ve **Veri AnalitiÄŸi (Data Analysis) & Veri Boru HatlarÄ± (ETL)** alanÄ±nda gerÃ§ek dÃ¼nya problemlerini Ã§Ã¶zen projeler geliÅŸtiriyorum.
 
----
-
-## 🎯 Current Focus
-
-- **Databases & data analysis** — hands-on with SQL Server and SQLite, working toward database administration and data analyst roles
-- **Process automation** — desktop tools that replace manual, error-prone routines
-- **Formal education** — pursuing a software engineering degree track alongside self-directed project work
+I work in the public energy sector while actively studying **Computer Programming** (on track toward **Computer Engineering**) and focusing on the **Data Analyst** career pathâ€”building practical data analysis, financial/behavioral analytics, and workflow automation projects with Python and SQL.
 
 ---
 
-## 🛠️ Tech Stack
+## ğŸ› ï¸ Teknik Yetkinlikler & AraÃ§lar (Tech Stack)
 
-| | |
-|---|---|
-| **Languages** | `Python` `SQL` `JavaScript` |
-| **Data** | `SQL Server` `SQLite` `Power BI` `Microsoft Excel` |
-| **Tools** | `Git` `GitHub` `Electron / Node.js` `PyInstaller` |
+- **Veri Analizi & GÃ¶rselleÅŸtirme:** `Python 3.12`, `Pandas`, `NumPy`, `Plotly`, `Jupyter Notebook`, `RFM Segmentasyonu`, `Finansal Risk Metrikleri (Sharpe / Sortino / Drawdown)`
+- **VeritabanÄ± & Veri HattÄ± (ETL):** `SQL`, `PostgreSQL`, `SQLite`, `SQLAlchemy`, `Veri Temizleme & Modelleme`
+- **Otomasyon & Uygulama GeliÅŸtirme:** `Pytest (Birim & Entegrasyon Testleri)`, `GitHub Actions (CI/CD)`, `OCR & PDF Veri Ã‡Ä±karÄ±mÄ±`, `JavaScript / Electron`
 
 ---
 
-## 🚀 Featured Projects
+## ğŸš€ Ã–ne Ã‡Ä±kan Projeler (Featured Projects)
 
-### [faturatakip](https://github.com/yunusdag-dev/faturatakip) — Purchase invoice registry for a team
-A Windows desktop app (Python, tkinter, SQLite) that a small team uses on a shared network folder to register and track purchase invoices.
+### 1. ğŸ“Š [TEFAS YatÄ±rÄ±m FonlarÄ± Performans, Risk ve RFM Analitik Pipeline](https://github.com/yunusdag-dev/tefas-fund-analytics-pipeline)
+> **Python 3.12 â€¢ Pandas â€¢ NumPy â€¢ SQLAlchemy â€¢ Plotly â€¢ Pytest â€¢ GitHub Actions**
+- TÃ¼rkiye Elektronik Fon AlÄ±m SatÄ±m Platformu (**TEFAS**) yatÄ±rÄ±m fonlarÄ±nÄ±n gÃ¼nlÃ¼k getiri, yÄ±llÄ±klandÄ±rÄ±lmÄ±ÅŸ volatilite, **Sharpe OranÄ±**, **Sortino OranÄ±** ve **Maksimum DÃ¼ÅŸÃ¼ÅŸ (Max Drawdown)** metriklerini hesaplayan uÃ§tan uca ETL ve finansal analiz projesi.
+- `Faker (tr_TR)` ile simÃ¼le edilen 300 yatÄ±rÄ±mcÄ±nÄ±n 3.000 alÄ±m/satÄ±m iÅŸlemi Ã¼zerinden **PortfÃ¶y Kar/Zarar (PnL & ROI)** ve **RFM (Recency, Frequency, Monetary)** davranÄ±ÅŸsal mÃ¼ÅŸteri segmentasyonu (`Champions`, `Loyal Investors`, `Big Spenders`, `At Risk`) gerÃ§ekleÅŸtirir.
+- Ä°nteraktif `Plotly` **Treemap**, **Donut Chart**, **Monetary vs. Recency Scatter Plot** ve **9/9 geÃ§en `pytest` otomatik test paketi** iÃ§erir.
 
-<img src="assets/fatura-takip.png" width="720" alt="Fatura Takip screenshot (sample data)">
+### 2. ğŸ§¾ [FaturaTakip â€” OCR Destekli Fatura KayÄ±t ve Otomasyon Sistemi](https://github.com/yunusdag-dev/faturatakip)
+> **Python â€¢ OCR â€¢ PDF Ä°ÅŸleme â€¢ SQLite â€¢ Excel Raporlama â€¢ Tkinter**
+- Ã‡ok sayfalÄ± PDF belgeleri iÃ§inden fatura sayfalarÄ±nÄ± otomatik tespit eden, OCR ve metin ayrÄ±ÅŸtÄ±rma ile alanlarÄ± otomatik dolduran, ortak aÄŸ Ã¼zerinde Ã§ok kullanÄ±cÄ±lÄ± `SQLite` veritabanÄ±nda saklayan ve `Excel` raporlarÄ± Ã¼reten masaÃ¼stÃ¼ iÅŸ akÄ±ÅŸÄ± otomasyonu.
 
-- 📄 **Reads invoice PDFs and fills the form** — date, invoice number, supplier, tax ID, amounts; the user always verifies before saving
-- 🔎 **Multi-page scans** — finds the invoice page automatically among up to 20 pages (page scoring), with manual override
-- 🖨️ **Layered extraction** — PyMuPDF, then a stdlib-only PDF text parser, then Windows OCR for scanned pages
-- 🗄️ **Shared SQLite database** on a network share, with clear error handling for locked files
-- 💰 **Money stored as integer kuruş** — no floating-point rounding errors
-- 📊 **Formatted Excel export** — real date/number cells, totals, filters, print setup
-- 📦 **Shipped as a standalone `.exe`** (PyInstaller) — no Python needed on users' machines
-
-### [gelir-gider-app](https://github.com/yunusdag-dev/gelir-gider-app) — Personal finance desktop app
-A full-featured budgeting application (Windows, Electron/Node.js), built in phases:
-- 📊 Income/expense tracking with categorized budgeting and limit alerts
-- 🎨 Theme system (dark/light/ocean)
-- 📅 Custom date-range financial reports
-- 📁 Excel & PDF export (in progress)
-- 🎯 Savings goals module with automated rounding rules
-
-Built end-to-end — from data model to UI to reporting — as a tool I use myself.
+### 3. ğŸ’° [Gelir-Gider App â€” BÃ¼tÃ§e ve Tasarruf Takip UygulamasÄ±](https://github.com/yunusdag-dev/gelir-gider-app)
+> **JavaScript â€¢ Electron â€¢ Node.js**
+- KiÅŸisel gelir, gider ve tasarruf hedeflerini kategorik olarak izlemek ve analiz etmek iÃ§in geliÅŸtirilmiÅŸ masaÃ¼stÃ¼ finans uygulamasÄ±.
 
 ---
 
-## 📫 Let's connect
-
-I'm open to **data analyst, database, and automation** opportunities. Feel free to reach out by email.
+## ğŸ“ˆ OdaklandÄ±ÄŸÄ±m GeliÅŸim AlanlarÄ± (Current Learning Path)
+- Ä°leri seviye **SQL & PostgreSQL** analitik sorgularÄ± (Window Functions, CTEs, Indexing)
+- **Python (Pandas, NumPy, Plotly)** ile keÅŸifsel veri analizi (EDA), istatistiksel analiz ve interaktif iÅŸ zekasÄ± (BI) panelleri
+- Test odaklÄ± (**Pytest**) ve modÃ¼ler veri boru hatlarÄ± (ETL)
